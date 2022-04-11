@@ -1,0 +1,13 @@
+[
+	{
+		"trigger": {
+						"productId": 2,
+						"productQuantity": 3
+					},
+		"name": "3x2 on apples",
+		"prize": {
+						"productId": 2,
+						"productQuantity": 1
+					}
+	}
+]

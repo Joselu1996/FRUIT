@@ -1,0 +1,17 @@
+[
+	{
+		"productId": 1,
+		"productName": "Pear",
+		"productPrice": 0.75
+	},
+	{
+		"productId": 2,
+		"productName": "Apple",
+		"productPrice": 0.9
+	},
+	{
+		"productId": 3,
+		"productName": "Orange",
+		"productPrice": 1
+	}
+]
